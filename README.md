@@ -1,0 +1,3 @@
+# alphabet-rs
+
+`cargo run`
